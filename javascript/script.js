@@ -1,4 +1,4 @@
- /* geen idee.
+ /* 
 
  Je bent nu klaar! Je kunt de data nu gaan gebruiken in je script.js file.
 
